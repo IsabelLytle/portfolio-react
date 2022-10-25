@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "718cb67c76f2189f863c213ead738127",
+    "revision": "230f6be1375acbc6a3c0d3cc1900f168",
     "url": "/portfolio-react/index.html"
   },
   {
-    "revision": "5b72ab1549271eb8b110",
-    "url": "/portfolio-react/static/css/main.7b93132e.chunk.css"
+    "revision": "4efc73b2a3426e995f3b",
+    "url": "/portfolio-react/static/css/main.5619ac49.chunk.css"
   },
   {
-    "revision": "ac27f4e7dc2934ee0c86",
-    "url": "/portfolio-react/static/js/2.fae6ec37.chunk.js"
+    "revision": "adafda0c32d1227ba2d9",
+    "url": "/portfolio-react/static/js/2.6310e37e.chunk.js"
   },
   {
     "revision": "d5b473ff893d6b5fac7d0b5081a5072a",
-    "url": "/portfolio-react/static/js/2.fae6ec37.chunk.js.LICENSE.txt"
+    "url": "/portfolio-react/static/js/2.6310e37e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b72ab1549271eb8b110",
-    "url": "/portfolio-react/static/js/main.704e443d.chunk.js"
+    "revision": "4efc73b2a3426e995f3b",
+    "url": "/portfolio-react/static/js/main.f19c0987.chunk.js"
   },
   {
-    "revision": "4ae7d374cd2031bc3b0c",
-    "url": "/portfolio-react/static/js/runtime-main.b5c9aa46.js"
+    "revision": "7a75b6d2a831774f5c60",
+    "url": "/portfolio-react/static/js/runtime-main.452a714e.js"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
@@ -52,18 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/portfolio-react/static/media/features-split-image-01.d9cb99ce.png"
-  },
-  {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/portfolio-react/static/media/features-split-image-02.3c569239.png"
-  },
-  {
-    "revision": "87e4d053756c60c9f421195d8eafdbfe",
-    "url": "/portfolio-react/static/media/features-split-image-03.87e4d053.png"
-  },
-  {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
     "url": "/portfolio-react/static/media/illustration-section-01.ea694903.svg"
   },
@@ -72,11 +60,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/static/media/illustration-section-02.63d0555d.svg"
   },
   {
+    "revision": "bc095a15f413387c7a6f76353dc1a476",
+    "url": "/portfolio-react/static/media/logicalbumcover.bc095a15.jpg"
+  },
+  {
     "revision": "2810a88b1d6365b363caeabe678f1629",
     "url": "/portfolio-react/static/media/logo.2810a88b.svg"
   },
   {
-    "revision": "a622fc5dd8adcdd27ea42218385013b4",
-    "url": "/portfolio-react/static/media/video-placeholder.a622fc5d.jpg"
+    "revision": "f33e0d1246fc12d2683e89c654421415",
+    "url": "/portfolio-react/static/media/minecraftskin.f33e0d12.png"
+  },
+  {
+    "revision": "83effee8cbc55f81c3a223ebfd66eb3d",
+    "url": "/portfolio-react/static/media/pokemondrawing.83effee8.jpg"
+  },
+  {
+    "revision": "779129865ac4a94e8fb67cd6d7172f2a",
+    "url": "/portfolio-react/static/media/spidermanlockscreen.77912986.jpg"
   }
 ]);

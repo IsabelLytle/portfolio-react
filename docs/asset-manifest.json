@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.7b93132e.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.704e443d.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.704e443d.chunk.js.map",
-    "runtime-main.js": "/portfolio-react/static/js/runtime-main.b5c9aa46.js",
-    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.b5c9aa46.js.map",
-    "static/js/2.fae6ec37.chunk.js": "/portfolio-react/static/js/2.fae6ec37.chunk.js",
-    "static/js/2.fae6ec37.chunk.js.map": "/portfolio-react/static/js/2.fae6ec37.chunk.js.map",
+    "main.css": "/portfolio-react/static/css/main.5619ac49.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.f19c0987.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.f19c0987.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.452a714e.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.452a714e.js.map",
+    "static/js/2.6310e37e.chunk.js": "/portfolio-react/static/js/2.6310e37e.chunk.js",
+    "static/js/2.6310e37e.chunk.js.map": "/portfolio-react/static/js/2.6310e37e.chunk.js.map",
     "index.html": "/portfolio-react/index.html",
-    "precache-manifest.dfdde365751334f2508b292e5d1d129a.js": "/portfolio-react/precache-manifest.dfdde365751334f2508b292e5d1d129a.js",
+    "precache-manifest.e2b5137149e51856009fdabf1c5ed86d.js": "/portfolio-react/precache-manifest.e2b5137149e51856009fdabf1c5ed86d.js",
     "service-worker.js": "/portfolio-react/service-worker.js",
-    "static/css/main.7b93132e.chunk.css.map": "/portfolio-react/static/css/main.7b93132e.chunk.css.map",
-    "static/js/2.fae6ec37.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.fae6ec37.chunk.js.LICENSE.txt",
+    "static/css/main.5619ac49.chunk.css.map": "/portfolio-react/static/css/main.5619ac49.chunk.css.map",
+    "static/js/2.6310e37e.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.6310e37e.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/portfolio-react/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/portfolio-react/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/portfolio-react/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -19,16 +19,16 @@
     "static/media/feature-tile-icon-04.svg": "/portfolio-react/static/media/feature-tile-icon-04.836acd10.svg",
     "static/media/feature-tile-icon-05.svg": "/portfolio-react/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/feature-tile-icon-06.svg": "/portfolio-react/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/features-split-image-01.png": "/portfolio-react/static/media/features-split-image-01.d9cb99ce.png",
-    "static/media/features-split-image-02.png": "/portfolio-react/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/portfolio-react/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logicalbumcover.jpg": "/portfolio-react/static/media/logicalbumcover.bc095a15.jpg",
     "static/media/logo.svg": "/portfolio-react/static/media/logo.2810a88b.svg",
-    "static/media/video-placeholder.jpg": "/portfolio-react/static/media/video-placeholder.a622fc5d.jpg"
+    "static/media/minecraftskin.png": "/portfolio-react/static/media/minecraftskin.f33e0d12.png",
+    "static/media/pokemondrawing.jpg": "/portfolio-react/static/media/pokemondrawing.83effee8.jpg",
+    "static/media/spidermanlockscreen.jpg": "/portfolio-react/static/media/spidermanlockscreen.77912986.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5c9aa46.js",
-    "static/js/2.fae6ec37.chunk.js",
-    "static/css/main.7b93132e.chunk.css",
-    "static/js/main.704e443d.chunk.js"
+    "static/js/runtime-main.452a714e.js",
+    "static/js/2.6310e37e.chunk.js",
+    "static/css/main.5619ac49.chunk.css",
+    "static/js/main.f19c0987.chunk.js"
   ]
 }
