@@ -1,0 +1,11 @@
+:root {
+    box-sizing: border-box;
+}
+
+
+*,
+::before,
+::after {
+    background-color:cornflowerblue;
+    box-sizing: border-box !important
+}

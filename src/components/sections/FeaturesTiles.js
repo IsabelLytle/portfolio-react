@@ -4,6 +4,8 @@ import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
 
+import './Tiles.css';
+
 const propTypes = {
   ...SectionTilesProps.types
 }
@@ -44,8 +46,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Favorites',
+    paragraph: 'Here are some of my general favorite things.'
   };
 
   return (
@@ -69,12 +71,12 @@ const FeaturesTiles = ({
                       height={64} />
                   </div>
                 </div>
-                <div className="features-tiles-item-content">
+                <div className="features-tiles-item-content tina">
                   <h4 className="mt-0 mb-8">
-                    Smile 
+                    Favorite Color
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    If you cant tell by the color of this page its a light blue. I also really like black because it matches everything.
                     </p>
                 </div>
               </div>
@@ -93,10 +95,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Favorite Clothing Piece 
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Hoodies by FAR. Theyre comfy and reliable. 
                     </p>
                 </div>
               </div>
@@ -115,10 +117,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Favorite Shoe Brand
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    My favorite shoe brand is definitely Vans. I use to wear converse but my brothers are vans guys so the only shoe theyd ever get for me would be vans.
                     </p>
                 </div>
               </div>
@@ -137,10 +139,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Favorite TV Show
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    My favorite show has probably gotta be The Office. I've seen it so many times it just has to be my top.
                     </p>
                 </div>
               </div>
@@ -159,10 +161,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Favorite Movie
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Now, I know I said I was a Marvel nerd so it only makes sense that my favorite movie would be Marvel right? Well youre wrong. My favorite movie at the moment is Top Gun: Maverick. I loved the original movie and when I saw this movie I just fell in love with it. I think I have seen it 9 times. Thats not an exaggeration.
                     </p>
                 </div>
               </div>
@@ -181,10 +183,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Favorite Social Media App
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    My favorite social media app has to be between Tiktok and Twitter. Tiktok can keep me there for hours and Twitter gives me all of my silly reaction images.
                     </p>
                 </div>
               </div>
